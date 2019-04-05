@@ -1,6 +1,6 @@
-# Docker Node MongoDB Example
+# Docker practice with Node/MongoDB
 
-> Simple example of a dockerized Node/Mongo app
+> Followed a simple tutorial to understand the basics of docker
 
 ## Quick Start
 
