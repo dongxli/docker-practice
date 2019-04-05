@@ -11,10 +11,4 @@ docker-compose up
 
 # Tear down
 docker-compose down
-
-# To be able to edit files, add volume to compose file
-volumes: ['./:/usr/src/app']
-
-# To re-build
-docker-compose build
 ```
